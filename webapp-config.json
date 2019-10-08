@@ -1,4 +1,4 @@
 {
-    "html": false,
+    "html": true,
     "source": "<HTML>\r\n\r\n<HEAD>\r\n\r\n<TITLE>Your Title Here<\/TITLE>\r\n\r\n<\/HEAD>\r\n\r\n<BODY BGCOLOR=\"FFFFFF\">\r\n\r\n<CENTER><IMG SRC=\"clouds.jpg\" ALIGN=\"BOTTOM\"> <\/CENTER>\r\n\r\n<HR>\r\n\r\n<a href=\"http:\/\/somegreatsite.com\">Link Name<\/a>\r\n\r\nis a link to another nifty site\r\n\r\n<H1>This is a Header<\/H1>\r\n\r\n<H2>This is a Medium Header<\/H2>\r\n\r\nSend me mail at <a href=\"mailto:support@yourcompany.com\">\r\n\r\nsupport@yourcompany.com<\/a>.\r\n\r\n<P> This is a new paragraph!\r\n\r\n<P> <B>This is a new paragraph!<\/B>\r\n\r\n<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.<\/I><\/B>\r\n\r\n<HR>\r\n\r\n<\/BODY>\r\n\r\n<\/HTML> "
 }
